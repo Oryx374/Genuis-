@@ -1,0 +1,19 @@
+.banner{
+background-image:
+linear-gradient(90deg, rgba(2,0,36,0.465721322708771) 17%, rgba(9 9 121 / 48%) 64%, rgba(0 212 255 / 60%) 90%) , url("https://image.shutterstock.com/image-photo/detail-on-hand-gun-black-260nw-1730841760.jpg");
+height: 65vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner h1{
+color: white;
+}
+
+.banner h2{
+color: white;
+}
